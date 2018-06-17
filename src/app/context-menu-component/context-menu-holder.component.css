@@ -1,0 +1,8 @@
+mat-list {
+    width: 150px;
+    position: absolute;
+    transform-origin: left top 0px;
+}
+button {
+    width: 100%;
+}
